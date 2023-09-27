@@ -1,1 +1,1 @@
-console.log("C is fun\nPython is coo\nJavaScript is amazing");
+console.log("C is fun\nPython is coo\nJavaScript is amazing\n");
