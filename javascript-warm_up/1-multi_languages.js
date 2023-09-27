@@ -1,5 +1,6 @@
 #!/usr/bin/node
-let c_lang = "C is fun";
-let python_lang = "Python is coo";
-let js_lang = "JavaScript is amazing"
-console.log(c_lang + '\n' + python_lang + '\n' + js_lang);
+// print 3 lines
+let c = 'C is fun';
+let p = 'Python is coo';
+let j = 'JavaScript is amazing';
+console.log(c + '\n' + p + '\n' + j)
